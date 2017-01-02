@@ -1,0 +1,5 @@
+src/app/code/community/Loewenstark/MirasvitImprovements                           app/code/community/Loewenstark/MirasvitImprovements
+src/app/etc/modules/Loewenstark_MirasvitImprovements.xml                          app/etc/modules/Loewenstark_MirasvitImprovements.xml
+src/app/locale/de_DE/Loewenstark_MirasvitImprovements.csv                         app/locale/de_DE/Loewenstark_MirasvitImprovements.csv
+src/app/design/frontend/base/default/layout/loewenstark-improvemirasvit.xml       app/design/frontend/base/default/layout/loewenstark-improvemirasvit.xml  
+src/js/loewenstark/improve_mirasvit.js                                            js/loewenstark/improve_mirasvit.js   
