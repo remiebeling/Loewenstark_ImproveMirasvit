@@ -1,11 +1,8 @@
-# Loewenstark_AttributeLogin
-Enable Customers to login with any Attribute specified in Backend.
-For Example customer number or Username
+# Loewenstark_MirasvitImprovements
+Adds "add to cart" functionality to search autocomplete
 
 ## Installation:
 the usual modman Way. 
+Keep in Mind that you have to enable the module in System config
 
-## Notice:
-After installation you may have to edit customer form login validation rules to fit yout needs.
 
-# Loewenstark_ImproveMirasvit
